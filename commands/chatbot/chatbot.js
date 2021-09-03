@@ -51,7 +51,7 @@ module.exports = {
                     )
       .setTimestamp()
       .setFooter(
-        `Command Requested by: ${message.author.tag}`,
+        `Command requested by ${message.author.tag}`,
       )
       .setColor("RANDOM");
     message.channel.send(embed);
