@@ -18,7 +18,7 @@
     "ascii-table": "0.0.9",
     "asyncawait": "^3.0.0",
     "atob": "^2.1.2",
-    "axios": "^0.21.1",
+    "axios": "^0.22.0",
     "beautify": "0.0.8",
     "better-sqlite3": "^7.4.3",
     "booru": "^2.4.0",
